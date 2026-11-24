@@ -1,0 +1,1 @@
+git clone -b scarthgap https://git.openembedded.org/meta-openembedded
